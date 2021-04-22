@@ -13,4 +13,9 @@
         android:text="Home"
         android:textSize="30dp"
         android:background="#dc6bf2"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/bg"
+        android:scaleType="centerCrop"/>
 </LinearLayout>
