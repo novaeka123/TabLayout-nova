@@ -7,10 +7,10 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:paddingLeft="20dp"
+        android:paddingLeft="25dp"
         android:paddingTop="10dp"
         android:textColor="#000000"
-        android:text="Github"
+        android:text="GitHub"
         android:textSize="30dp"
         android:background="#dc6bf2"/>
     <ImageView
